@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ichlasdev
 - 👀 I’m interested in updated technology.
-- 🌱 I’m currently learning .NET Framework
+- 🌱 I’m currently learning CodeIgniter 3
 - 💞️ I’m not looking to collaborate on something
 - 📫 How to reach me, you can't. because I'm too high
 
